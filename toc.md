@@ -142,4 +142,4 @@
 
 ## Иные вопросы мигрантов
 
-[Уведомление об открытии счета в иностранном банке. Валютный контроль для граждан](http://gidprava.ru/accounting/uslugi/individuals/foreign-bank/)
+[Уведомление об открытии счета в иностранном банке. Валютный контроль для граждан РФ](http://gidprava.ru/accounting/uslugi/individuals/foreign-bank/)
