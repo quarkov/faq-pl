@@ -1,6 +1,6 @@
 # Официальные источники
 
-[Разъяснение для иностранцев о принципах и порядке действий, а также о правах и обязанностях](https://www.mazowieckie.pl/download/1/42796/file.pdf) - очень толковый документ, составленный сотрудниками варшавского ужонда. Рекомендую с ним ознакомиться, т.к. в нем содержатся 95% ответов на самые часто задаваемые вопросы.
+[Разъяснение для иностранцев о принципах и порядке действий, а также о правах и обязанностях](https://www.mazowieckie.pl/download/1/48863/ouczeniedlacudzoziemcownowelafinal.doc) - очень толковый документ, составленный сотрудниками варшавского ужонда. Рекомендую с ним ознакомиться, т.к. в нем содержатся 95% ответов на самые часто задаваемые вопросы. Этот же документ на [польском языке](https://www.mazowieckie.pl/download/1/48869/ouczeniedlacudzoziemcowzaktualizowanewzwznowelizacjafinal.doc).
 
 ## Законы и подзаконные акты
 * [Ustawa z dnia 12 grudnia 2013 r. o cudzoziemcach (Закон об иностранцах)](http://isap.sejm.gov.pl/DetailsServlet?id=WDU20130001650)  
@@ -9,6 +9,7 @@
 * [Ustawa z dnia 7 września 2007 r. o Karcie Polaka](http://isap.sejm.gov.pl/DetailsServlet?id=WDU20071801280)  
 * [Ustawa z dnia 9 listopada 2000 r. o repatriacji](http://isap.sejm.gov.pl/DetailsServlet?id=WDU20001061118)  
 * [Rozporządzenie Ministra Pracy i Polityki Społecznej z dnia 21 kwietnia 2015 r. w sprawie przypadków, w których powierzenie wykonywania pracy cudzoziemcowi na terytorium Rzeczypospolitej Polskiej jest dopuszczalne bez konieczności uzyskania zezwolenia na pracę ](http://isap.sejm.gov.pl/DetailsServlet?id=WDU20150000588)
+* [Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 6 lutego 2018 r. w sprawie wysokości środków finansowych, jakie musi posiadać cudzoziemiec podejmujący lub kontynuujący studia na terytorium Rzeczypospolitej Polskiej](http://prawo.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000337)
 
 ## Официальные порталы информации
 * [Migrant.info.pl](http://www.migrant.info.pl/)

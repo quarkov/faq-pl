@@ -1,5 +1,13 @@
 # Содержание
 
+Ниже сгруппированы материалы по темам.  
+Если вы мало что знаете о Польше, то начните с раздела "С чего начать?"
+
+## С чего начать?
+[Польша: руководство по выживанию для новоиспеченного экспата](http://lotosh.1gb.ru/articles/polmanual.html)  
+[Как переехать в Европу (в Польшу) на пмж? И неочевидные способы тоже!](http://happytravelling.org/kak-pereexat-v-evropu-v-polshu-na-pmzh/)  
+[Как и зачем мы переехали в Польшу](https://olyapka.ru/2015/02/kak-i-zachem-my-pereekhali-v-polshu/)
+
 ## Справочники, брошюры
 
 [Общие темы](booklets/general.md)  
@@ -17,6 +25,7 @@
 [Получение PESEL](organizational_issues/pesel.md)  
 [Официальные электронные порталы](organizational_issues/services.md)  
 [Социальные пособия и материальная помощь](https://yadi.sk/i/KWWzbaqa3QVNkW)  
+[Образец заявления на ознакомление с материалами дела при оформлении вида на жительство](https://yadi.sk/i/3oTDsDcr3Tza9k)
 
 ## Дополнительная юридическая информация
 
@@ -49,6 +58,8 @@
 [Выбор формы налогообложения](https://poradnikprzedsiebiorcy.pl/-formy-opodatkowania-jaka-wybrac)  
 
 ## [Карта поляка](poles_card/info.md)
+
+## [Репатриация в Польшу](repartiation/info.md)
 
 ## Жилье/Недвижимость
 
@@ -94,6 +105,7 @@
 ## Транспорт, Автомобили
 
 [ПДД (Kodeks drogowy)](http://kodeks-drogowy.org/)  
+[Тарифы штрафов](https://taryfikatormandatow.pl/)  
 [Замена иностранных водительских прав](organizational_issues/замена_иностранных_водительских_прав.md)  
 [Транспорт по городам](transport/транспорт_в_городах.md)  
 [Полезные приложения и ссылки](transport/apps.md)  
@@ -105,7 +117,8 @@
 
 ## Покупки
 
-[Возврат TAX-FREE](shopping/tax-free.md)
+[Возврат TAX-FREE](shopping/tax-free.md)  
+[Как покупать на Allegro.pl? Наглядная инструкция](https://olyapka.ru/2018/03/kak-pokupat-na-allegro-pl-naglyadnaya-instrukciya/)
 
 ## Экология
 
@@ -126,3 +139,7 @@
 [Местные экскурсии](travel/экскурсии.md)
 
 ## [Архивные документы](archives/archives.md)  
+
+## Иные вопросы мигрантов
+
+[Уведомление об открытии счета в иностранном банке. Валютный контроль для граждан](http://gidprava.ru/accounting/uslugi/individuals/foreign-bank/)

@@ -2,13 +2,14 @@
 
 ## Операторы
 
-Основные операторы сотовой связи в Польше:
+Некоторые операторы сотовой связи в Польше:
 1. [T-Mobile](http://www.t-mobile.pl/)
 2. [Play](https://www.play.pl/)
 3. [Plus](https://www.plus.pl/)
 4. [Orange](https://www.orange.pl/)   
 5. [VirginMobile](https://virginmobile.pl/) (Виртуальный оператор)
-6. [Nju Mobile](http://www.njumobile.pl/) (Виртуальный оператор)
+
+Список [основных операторов](https://pl.wikipedia.org/wiki/Telekomunikacja_w_Polsce#Operatorzy_strukturalni) и [виртуальных операторов](https://pl.wikipedia.org/wiki/Operator_wirtualny#Wirtualni_operatorzy_na_rynku_polskim) сотовой связи в Польше.
 
 ## Сим-карты
 
@@ -26,29 +27,75 @@
 * [art. 60 ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz.U. z 2016 r., poz. 904)](http://isap.sejm.gov.pl/DetailsServlet?id=WDU20160000904);
 * [§ 10, § 11 Rozporządzenia Ministra Infrastruktury z dnia 16 grudnia 2010 r. w sprawie warunków korzystania z uprawnień w publicznych sieciach telefonicznych (Dz.U. z 2010 r., Nr 249, poz. 1670)](http://isap.sejm.gov.pl/DetailsServlet?id=WDU20102491670).
 
-## Тарифы
+## Наиболее универсальные тарифы
 
 Информация актуальна на момент последнего редактирования статьи.  
 Проверяйте информацию на сайтах операторов!
 
-### Тарифы/опции для всего:
+### PLAY
 
-* [FORMUŁA UNLIMITED в PLAY](http://www.play.pl/oferta/play-karta/play-na-karte/formula-unlimited/)  
-Звонки, смс без лимита до всех по Польше, 6 Gb, 25 злотых/месяц.
+[FORMUŁA UNLIMITED w PLAY](http://www.play.pl/oferta/play-karta/play-na-karte/formula-unlimited/)  
+Звонки и смс без лимита по Польше, 6 Gb трафика, 25 злотых/месяц.
 
-* [Na kartę bez limitu w T-Mobile](http://www.t-mobile.pl/pl/dlaciebie/oferta/na-karte)  
-Звонки, смс без лимита до всех по Польше + роуминг EU, 10 Gb, 25 злотых/месяц.
+[SOLO w Play na Kartę](https://www.play.pl/oferta/play-karta/play-na-karte/solo-w-play-na-karte/)  
+Звонки и смс без лимита по Польше, 10 Gb трафика, 25 злотых/месяц.
 
-### Тарифы/опции для Интернета:
+[RODZINA w Play na Kartę](https://www.play.pl/kampanie/rodzina-w-play-na-karte/)  
+Возможность создавать группу (от 2 до 8 человек) и платить ежемесячно сразу за всю группу. Для каждого члена группы за 25 злотых/месяц: звонки и смс без лимита по Польше, 15 Gb трафика.
 
-* [Безлимитные День/Неделя/Месяц в PLAY](http://promocje.play.pl/pakiet/)  
+### T-Mobile
+
+[Na kartę bez limitu w T-Mobile](http://www.t-mobile.pl/pl/dlaciebie/oferta/na-karte) или http://www.gwarancja.t-mobile.pl/  
+Звонки и смс без лимита по Польше, 10 Gb, 25 злотых/месяц.
+
+### Orange
+
+[Orange na kartę](bezlimitunakarte.pl/)  
+Звонки и смс без лимита по Польше, 15 Gb (35 Gb за перенос номера), 25 злотых/месяц.
+
+### Plus
+
+[Plus Na kartę Bez limitu, Limitowana edycja](http://www.plus.pl/na-karte)  
+Звонки и смс без лимита по Польше, 15 Gb, 25 злотых/месяц.
+
+[Plus Na kartę Bez limitu](http://www.plus.pl/na-karte)  
+Звонки и смс без лимита по Польше, 6 Gb, 25 злотых/месяц.
+
+### Plush
+
+[Plush na kartę](http://www.plushbezlimitu.pl/na-karte)  
+Звонки и смс без лимита по Польше, 10 Gb, 25 злотых/месяц.
+
+### Virgin Mobile
+
+[#BEZLIMITU](https://virginmobile.pl/oferty/karta/nowy-numer/bezlimitu)  
+Звонки и смс без лимита по Польше, 10 Gb, 29 злотых/месяц.
+
+[#FREEMIUM](https://virginmobile.pl/oferty/karta/nowy-numer/freemium)  
+30 минут до всех по Польше в месяц, 30 смс до всех по Польше в месяц,  
+300 Mb Интернета в месяц + 10 Gb единоразовый бонус  
+за **0 злотых**.
+
+### Mobile Vikings
+
+[No limit 29](https://mobilevikings.pl/pl/oferta/telefon-na-karte/#viking29nolimit)  
+Звонки и смс без лимита по Польше, 15 Gb, 29 злотых/месяц.
+
+## Тарифы/опции для Интернета:
+
+[Безлимитные День/Неделя/Месяц в PLAY](http://promocje.play.pl/pakiet/)  
 Хотя на самом деле лимит все таки есть - 10 GB/30 GB/100 GB соответственно, потом ограничение скорости до 64 Кб/с.
 
-### Некоторые обзоры тарифов:
+[NIELIMITOWANY INTERNET DOMOWY](http://www.t-mobile.pl/pl/internet-domowy-tmobile/main) от T-Mobile  
+20 Mb/s или 60 Mb/s, но только по контракту.
 
-1. Мобильные операторы Польши - основная информация  
-[http://gopolsha.com/mobilnye-operatory-polshi-osnovnaya-informaciya/](http://gopolsha.com/mobilnye-operatory-polshi-osnovnaya-informaciya/)
-2. Крупные мобильные операторы Польши - стартовые пакеты, контракты, тарифы  
-[http://gopolsha.com/krupnye-mobilnye-operatory-polshi-startovye-pakety-kontrakty-tarify/](http://gopolsha.com/krupnye-mobilnye-operatory-polshi-startovye-pakety-kontrakty-tarify/)
-3. Наиболее выгодные операторы связи Польши и их тарифы - для экономных  
-[http://gopolsha.com/naibolee-vygodnye-operatory-svyazi-polshi-i-ih-tarify-dlya-ekonomnyh/](http://gopolsha.com/naibolee-vygodnye-operatory-svyazi-polshi-i-ih-tarify-dlya-ekonomnyh/)
+## Сравнение тарифов
+
+Сервис [komorkomat.pl](https://komorkomat.pl/)
+
+## Статьи по теме
+
+* [Телекоммуникация в Польше](http://www.migrant.info.pl/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D0%B2_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B5.html)  
+* [Мобильные операторы Польши - основная информация](http://gopolsha.com/mobilnye-operatory-polshi-osnovnaya-informaciya/)
+* [Крупные мобильные операторы Польши - стартовые пакеты, контракты, тарифы](http://gopolsha.com/krupnye-mobilnye-operatory-polshi-startovye-pakety-kontrakty-tarify)
+* [Наиболее выгодные операторы связи Польши и их тарифы - для экономных](http://gopolsha.com/naibolee-vygodnye-operatory-svyazi-polshi-i-ih-tarify-dlya-ekonomnyh)
