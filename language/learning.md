@@ -24,7 +24,7 @@
 ## Учебники
 
 [Учебники для русскоязычных детей](https://polski.pro/?s=RAZ%2C+DWA%2C+TRZY+I+PO+POLSKU+M%C3%93WISZ+TY)  
-[Сборник учебников польского языка для разных уровней](https://drive.google.com/drive/folders/0BzV6nh9jezaRVVVQMFl0MkQ0R1k)  
+[Сборник учебников польского языка для разных уровней](https://www.dropbox.com/sh/m5pp0bal3gkvmn9/AABsYVzWCPU2dAT73DOQpWQta?dl=0)  
 [Krok po kroku polski](http://polskikrokpokroku.pl/) - [torrent](https://rutracker.org/forum/viewtopic.php?t=4452468)  
 [Hurra!!!](http://prologpublishing.com/category/hurra) - Torrent: [Hurra1](https://rutracker.org/forum/viewtopic.php?t=2162984), [Hurra2](https://rutracker.org/forum/viewtopic.php?t=2298030), [Hurra3](https://rutracker.org/forum/viewtopic.php?t=3892487)  
 [Учебники и словари в электронном формате](http://polski.pro/category/materialy)  
