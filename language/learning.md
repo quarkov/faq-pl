@@ -6,7 +6,7 @@
 
 ## Сайты
 
-[Игра для изучения слов](https://babadum.com/)
+[Игра для изучения слов](https://babadum.com/)  
 [Платформа обучения Polskijazyk.pl](http://www.polskijazyk.pl/)  
 [Kurs języka polskiego](http://popolskupopolsce.edu.pl/kurs-jezyka-polskiego)  
 [PROpolski](http://propolski.com/)  
@@ -24,7 +24,7 @@
 ## Учебники
 
 [Учебники для русскоязычных детей](https://polski.pro/?s=RAZ%2C+DWA%2C+TRZY+I+PO+POLSKU+M%C3%93WISZ+TY)  
-[Сборник учебников польского языка для разных уровней](https://www.dropbox.com/sh/m5pp0bal3gkvmn9/AABsYVzWCPU2dAT73DOQpWQta?dl=0)  
+[Сборник учебников польского языка для разных уровней](https://yadi.sk/d/gi9N3rb73YwCGT)  
 [Krok po kroku polski](http://polskikrokpokroku.pl/) - [torrent](https://rutracker.org/forum/viewtopic.php?t=4452468)  
 [Hurra!!!](http://prologpublishing.com/category/hurra) - Torrent: [Hurra1](https://rutracker.org/forum/viewtopic.php?t=2162984), [Hurra2](https://rutracker.org/forum/viewtopic.php?t=2298030), [Hurra3](https://rutracker.org/forum/viewtopic.php?t=3892487)  
 [Учебники и словари в электронном формате](http://polski.pro/category/materialy)  

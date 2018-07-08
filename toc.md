@@ -85,17 +85,13 @@
 [Учебные заведения](education/учебные_заведения.md)  
 [Список полицеальных школ](https://szkolypolicealne.edubaza.pl/)  
 
-## Язык
-
-[Изучение польского языка](language/learning.md)  
-[Курсы польского языка вне Польши](language/курсы_вне_польши.md)  
-[Курсы польского языка в Польше](language/курсы_в_польше.md)
+## [Польский язык](language/_toc.md)
 
 ## [Культура](culture/culture.md)
 
 ## [Мобильная связь](mobile_internet/mobile.md)
 
-## [Интернет](mobile_internet/internet.md)
+## [Интернет для дома](mobile_internet/internet.md)
 
 ## Транспорт, Автомобили
 
