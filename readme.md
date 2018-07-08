@@ -9,10 +9,8 @@
 [License](LICENSE.md)  
 
 ## Контакты:
-E-mail:  
-[Maksim Prianichnikov (prianichnikov.maksim@gmail.com)](mailto::prianichnikov.maksim@gmail.com)  
-[Alena Prianichnikova (asprianichnikova@gmail.com)](mailto::asprianichnikova@gmail.com)  
+E-Mail: [Maksim Prianichnikov](mailto::prianichnikov.maksim@gmail.com)  
 
 Telegram:  
 [@prianichnikov](https://t.me/prianichnikov)  
-[@prianichnikova](https://t.me/prianichnikova)  
+[@Alena_Prianichnikova](https://t.me/Alena_Prianichnikova)  
