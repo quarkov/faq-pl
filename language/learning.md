@@ -89,6 +89,8 @@
 ## Приложения для телефона
 
 Tandem - [Goolge Play](https://play.google.com/store/apps/details?id=net.tandem)  
+Memrise - [Google Play](https://play.google.com/store/apps/details?id=com.memrise.android.memrisecompanion), [Apple Store](https://itunes.apple.com/us/app/memrise-language-learning/id635966718)  
+Wokabulary - [Apple Store](https://itunes.apple.com/app/wokabulary/id599276235)
 
 ## Прочее
 
