@@ -85,7 +85,7 @@
 [Учебные заведения](education/учебные_заведения.md)  
 [Список полицеальных школ](https://szkolypolicealne.edubaza.pl/)  
 
-## [Польский язык](language/_toc.md)
+## [Польский язык](language/toc.md)
 
 ## [Культура](culture/culture.md)
 
