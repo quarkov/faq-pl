@@ -5,29 +5,11 @@
 
 ## [С чего начать?](begin/how_to_start.md)
 
-## Справочники, брошюры
+## [Справочники, брошюры](booklets/toc.md)
 
-[Общие темы](booklets/general.md)  
-[Работа](booklets/work.md)  
-[Убежище/Беженство](booklets/refugees.md)  
+## [Организационные вопросы](organizational_issues/toc.md)
 
-## Организационные вопросы
-
-[Изменения в законодательстве в 2018 г.](organizational_issues/changes_2018.md)  
-[Официальные источники информации](organizational_issues/oficial_sources.md)  
-[Оформление временного вида на жительство (ВНЖ)](organizational_issues/внж.md)  
-[Оформление постоянного вида на жительство (ПМЖ)](organizational_issues/пмж.md)  
-[Оформление разрешения на пребывание долгосрочного резидента ЕС](organizational_issues/резидент_eu.md)  
-[Присяжный перевод документов](organizational_issues/присяжный_перевод.md)  
-[Получение PESEL](organizational_issues/pesel.md)  
-[Официальные электронные порталы](organizational_issues/services.md)  
-[Социальные пособия и материальная помощь](https://yadi.sk/i/KWWzbaqa3QVNkW)  
-[Образец заявления на ознакомление с материалами дела при оформлении вида на жительство](https://yadi.sk/i/3oTDsDcr3Tza9k)
-
-## Дополнительная юридическая информация
-
-[Блоги и сайты юристов](legal/blogs.md)  
-[Юридическая помощь](legal/help.md)
+## [Дополнительная юридическая информация](legal/toc.md)
 
 ## Работа
 
@@ -111,23 +93,11 @@
 [Возврат TAX-FREE](shopping/tax-free.md)  
 [Как покупать на Allegro.pl? Наглядная инструкция](https://olyapka.ru/2018/03/kak-pokupat-na-allegro-pl-naglyadnaya-instrukciya/)
 
-## Экология
+## [Экология](ecology/toc.md)  
 
-[Экология](ecology/ecology.md)  
+## [Форумы, сайты/блоги и влоги иммигрантов](sites/toc.md)
 
-## Форумы, сайты/блоги и влоги иммигрантов
-
-[Группы в социальных сетях/мессенджерах](sites/groups.md)  
-[Истории переезда в Польшу](sites/stories.md)  
-[Сайты и блоги](sites/сайты.md)  
-[Влоги](sites/влоги.md)  
-[Форумы](sites/форумы.md)  
-
-## Путешественникам и туристам
-
-[Что посмотреть?](travel/что_посмотреть.md)  
-[Еда и шоппинг](travel/еда_и_шоппинг.md)  
-[Местные экскурсии](travel/экскурсии.md)
+## [Польша для туристов](travel/toc.md)
 
 ## [Архивные документы](archives/archives.md)  
 
