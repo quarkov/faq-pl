@@ -96,11 +96,9 @@
 
 ## [Культура](culture/culture.md)
 
-## Мобильная связь/Интернет
+## [Мобильная связь](mobile_internet/mobile.md)
 
-[Мобильная связь](mobile_internet/mobile_network.md)  
-[Мобильный интернет](https://texnoera.com/internet/drugoe/internet-v-polshe.html)  
-[Интернет](mobile_internet/internet.md)  
+## [Интернет](mobile_internet/internet.md)
 
 ## Транспорт, Автомобили
 
