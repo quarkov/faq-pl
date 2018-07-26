@@ -2,9 +2,9 @@
 
 [Podanie](https://yadi.sk/i/fAWJfPQM3ZcAim) - Заявление об актуализации данных по рассмотрению дела о выдаче вида на жительство.
 
-[Przywrócenie terminu](https://yadi.sk/i/Qs_0V_ih3ZcAk6) - Заявление с просьбой о рассмотрении пропущенного срока.
+[Przywrócenie terminu](https://yadi.sk/i/Qs_0V_ih3ZcAk6) - Заявление с просьбой о восстановлении пропущенного срока.
 
-[Ponaglenie](https://yadi.sk/i/-wI-_Ecg3ZcAmx) - Документ с просбой об ускорении рассмотрения дела по выдаче вида на жительство.
+[Ponaglenie](https://yadi.sk/i/-wI-_Ecg3ZcAmx) - Документ с просьбой об ускорении рассмотрения дела по выдаче вида на жительство.
 
 [Umowa najmu](https://yadi.sk/i/kOxKM0bL3ZcAoY) - Договор аренды квартиры.
 
