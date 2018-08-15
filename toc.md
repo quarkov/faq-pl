@@ -56,7 +56,7 @@
 
 ## [Репатриация в Польшу](repartiation/info.md)
 
-## Жилье/
+## Жилье
 
 [Где и как искать жилье в Польше](mieszkanie/szukanie.md)  
 [Как сделать прописку](mieszkanie/zamielowanie.md)  
@@ -80,13 +80,22 @@
 [Семья](family/family.md)  
 [Книги для детей](http://www.opolsce.eu/publikacje/adresat/dla-dzieci)  
 
-## [Польский язык](language/toc.md)
+## Польский язык
+
+[Как выучить польский язык](jezyk/materialy.md)  
+[Курсы польского языка](jezyk/kursy.md)  
+[Где практиковать язык](jezyk/praktyka.md)  
 
 ## [Культура](culture/culture.md)
 
-## [Мобильная связь](mobile_internet/mobile.md)
+## Мобильная связь
 
-## [Интернет для дома](mobile_internet/internet.md)
+[Какого оператора выбрать](siec_komorkowa/operator.md)  
+[Тарифы для домашнего интернета](siec_komorkowa/internet.md)  
+
+## Домашний интернет
+
+[Какого оператора выбрать](internet/internet.md)
 
 ## Транспорт, Автомобили
 
