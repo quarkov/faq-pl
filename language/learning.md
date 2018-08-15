@@ -15,11 +15,12 @@
 [Obcy język polski](http://obcyjezykpolski.pl/)  
 [Языковой аудиокурс польского языка](http://www.goethe-verlag.com/book2/RU/)  
 [Po polsku po Polsce](http://popolskupopolsce.edu.pl/)  
-[Уроки польского языка для начинающих онлайн бесплатно](http://lingust.ru/polski/lekcje-polskiego)  
+[Уроки польского языка для начинающих](http://lingust.ru/polski/lekcje-polskiego)  
 [Самоучитель польского языка как игра](http://businessideas.com.ua/online-soft/languages/polish/)  
 [Изучение - Польский язык. Лексика, грамматика, и фразы](http://mylanguages.org/ru/polish_learn.php)  
 [Все для студентов и преподавателей](http://polski.pro/)  
 [Диктанты с упором на орфографию](http://www.ortografka.pl/)
+[Произношение слов на разных языках](https://pl.forvo.com/languages/)
 
 ## Учебники
 

@@ -1,13 +1,25 @@
 # Содержание
 
-Ниже сгруппированы материалы по темам.  
-Если вы мало что знаете о Польше, то начните с раздела "С чего начать?"
-
 ## [С чего начать?](begin/how_to_start.md)
 
 ## [Справочники, брошюры](booklets/toc.md)
 
-## [Организационные вопросы](organizational_issues/toc.md)
+## Организационные вопросы
+
+[Как получить PESEL](organizacyjne/pesel.md)  
+[Как перевести документы на польский язык](organizacyjne/tlumaczenie.md)  
+Как сделать прописку  
+Как найти работу  
+[Как получить ВНЖ](organizacyjne/pobyt_czasowy.md)  
+[Как получить ПМЖ](organizacyjne/pobyt_staly.md)  
+[Как получить статус резидента EU](organizacyjne/karta_rezydenta_UE.md)  
+[Как сделать нострификацию медицинского диплома](https://yadi.sk/i/CXNKtHEG3QVNZg)  
+[Как поменять водительские права на польские](organizacyjne/wymiana_prawa_jazdy.md)  
+
+## Официальные источники информации
+
+[Правовые документы](informacja/dokumenty.md)  
+[Официальные сервисы](informacja/serwisy.md)
 
 ## [Дополнительная юридическая информация](legal/toc.md)
 
@@ -15,39 +27,47 @@
 
 ## Работа
 
-[Сайты с вакансиями](work/сайты_вакансий.md)  
-[Интервью, CV](work/interview_cv.md)  
-[Заработная плата, налоги, договоры](work/salary.md)  
-[Фриланс](work/freelance.md)  
-[Оформление разрешения на работу (Тип А)](work/разрешение_на_работу.md)  
-[Оформление освядчения](work/оформление_освядчения.md)  
-[Оформление разрешение на работу в связи с исполняемой функцией члена правления предприятия/общества (Тип В)](work/разрешение_для_директора.md)  
-[Тест рынка труда](work/тест_рынка_труда.md)  
-[Иные материалы по теме Работа](work/other.md)  
+[Где искать вакансии в Польше](praca/wakaty.md)  
+[Как написать CV](praca/cv.md)  
+[Сколько зарабатывают в Польше](praca/wynagrodzenie.md)  
+[Как заниматься фрилансом в Польше](praca/freelance.md)  
+[Как сделать разрешение на работу](praca/zezwolenie.md)  
 
 ## Бизнес
 
-[Регистрация бизнеса](business/reg.md)  
-[Бухгалтерия](business/accounting.md)  
-[Государственный реестр юридических лиц](https://ems.ms.gov.pl/krs/wyszukiwaniepodmiotu)  
-[Бизнес-инкубаторы и коворкинги](business/incubators_coworkings.md)  
-[Академия развития предпринимательства / Polska Agencja Rozwoju Przedsiębiorczości](http://www.parp.gov.pl/)  
-[Статьи по теме](business/articles.md)  
+[Как открыть и зарегистрировать свою фирму](biznes/rejestracja_firmy.md)  
+[Как открыть ИП](biznes/dg.md)  
+[Как вести бухгалтерию](biznes/ksiegowosc.md)  
+[Как получить ВНЖ по бизнесу](biznes/pobyt_czasowy.md)  
+[Выбор формы налогообложения](biznes/opodatkowanie.md)  
+[Бизнес-инкубаторы и коворкинги](biznes/inkubatory.md)  
 
-## Индивидуальное предпринимательство
+## Обучение
 
-[Выбор формы налогообложения](https://poradnikprzedsiebiorcy.pl/-formy-opodatkowania-jaka-wybrac)  
+[Как начать учиться в Польше](studia/studia.md)  
+[Как выбрать учебное заведение](studia/uczelni.md)  
+[Список полицеальных школ в Польше](https://szkolypolicealne.edubaza.pl/)  
 
-## [Карта поляка](poles_card/info.md)
+## Карта поляка
+
+[Что такое карта поляка](karta_polaka/karta_polaka.md)  
+[Где искать корни](karta_polaka/archiwum.md)  
+[Как подготовиться и пройти собеседование](karta_polaka/rozmowa.md)  
 
 ## [Репатриация в Польшу](repartiation/info.md)
 
-## Жилье/Недвижимость
+## Жилье/
 
-[Оформление прописки](realty/прописка.md)  
-[Покупка недвижимости](realty/покупка_недвижимости.md)  
-[Поиск жилья](realty/поиск_жилья.md)  
-[Отели, ночлеги](realty/hotels.md)
+[Где и как искать жилье в Польше](mieszkanie/szukanie.md)  
+[Как сделать прописку](mieszkanie/zamielowanie.md)  
+[Где найти отель, хостел](mieszkanie/hotel.md)  
+
+## Недвижимость
+
+[Где искать недвижимость](nieruchomosc/szukanie.md)  
+[Как выбрать дом и квартиру](nieruchomosc/wybor.md)  
+[Как получить ипотечный кредит](nieruchomosc/kredyt.md)  
+[Покупка недвижимости](nieruchomosc/zakup.md)   
 
 ## Медицина
 
@@ -59,15 +79,6 @@
 [Переезд с детьми](family/children.md)  
 [Семья](family/family.md)  
 [Книги для детей](http://www.opolsce.eu/publikacje/adresat/dla-dzieci)  
-
-## Нострификация дипломов
-
-[Нострификация медицинского диплома](https://yadi.sk/i/CXNKtHEG3QVNZg)  
-
-## Обучение
-
-[Учебные заведения](education/учебные_заведения.md)  
-[Список полицеальных школ](https://szkolypolicealne.edubaza.pl/)  
 
 ## [Польский язык](language/toc.md)
 
@@ -85,6 +96,8 @@
 [Транспорт по городам](transport/транспорт_в_городах.md)  
 [Полезные приложения и ссылки](transport/apps.md)  
 [Информация об авто по номеру VIN](https://historiapojazdu.gov.pl/strona-glowna)
+
+## [Отдых](rest/toc.md) 
 
 ## Домашние животные
 
