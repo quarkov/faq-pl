@@ -67,59 +67,80 @@
 [Где искать недвижимость](nieruchomosc/szukanie.md)  
 [Как выбрать дом и квартиру](nieruchomosc/wybor.md)  
 [Как получить ипотечный кредит](nieruchomosc/kredyt.md)  
-[Покупка недвижимости](nieruchomosc/zakup.md)   
+[Покупка недвижимости](nieruchomosc/zakup.md)  
 
 ## Медицина
 
-[Беременность и роды](medicine/беременность_и_роды.md)  
-[Врачи и больницы](medicine/врачи_и_больницы.md)
+[Куда пойти лечиться](medycyna/lekarze.md)  
+[Роды в Польше](medycyna/porody.md)  
 
-## Семья и дети
+## Дети
 
-[Переезд с детьми](family/children.md)  
-[Семья](family/family.md)  
-[Книги для детей](http://www.opolsce.eu/publikacje/adresat/dla-dzieci)  
+[Как записать ребенка в детский сад](dzieci/przedszkole.md)  
+[Как записать ребенка в школу](dzieci/szkola.md)  
+[Прочие материалы](dzieci/reszta.md)  
 
 ## Польский язык
 
-[Как выучить польский язык](jezyk/materialy.md)  
-[Курсы польского языка](jezyk/kursy.md)  
+[Где взять материалы для изучения](jezyk/materialy.md)  
+[Где пойти на курсы польского языка](jezyk/kursy.md)  
 [Где практиковать язык](jezyk/praktyka.md)  
 
-## [Культура](culture/culture.md)
+## Польская культура
+
+[Где посмотреть польские фильмы](kultura/filmy.md)  
+[Где посмотреть польское телевидение](kultura/tv.md)  
+[Где послушать польское радио](kultura/radio.md)  
+[Где найти польские книги](kultura/ksiazki.md)  
 
 ## Мобильная связь
 
 [Какого оператора выбрать](siec_komorkowa/operator.md)  
-[Тарифы для домашнего интернета](siec_komorkowa/internet.md)  
+[Какой есть мобильный интернет для дома](siec_komorkowa/internet.md)  
 
 ## Домашний интернет
 
-[Какого оператора выбрать](internet/internet.md)
+[Какого оператора домашнего интернета выбрать](internet/internet.md)
 
-## Транспорт, Автомобили
+## Автомобили
 
-[ПДД (Kodeks drogowy)](http://kodeks-drogowy.org/)  
-[Тарифы штрафов](https://taryfikatormandatow.pl/)  
-[Замена иностранных водительских прав](organizational_issues/замена_иностранных_водительских_прав.md)  
-[Транспорт по городам](transport/транспорт_в_городах.md)  
-[Полезные приложения и ссылки](transport/apps.md)  
-[Информация об авто по номеру VIN](https://historiapojazdu.gov.pl/strona-glowna)
+[Где найти информацию о ремонтах на дорогах и магистралях](samochod/stan_drogowy.md)  
+[Где найти правила дорожного движения](http://kodeks-drogowy.org/)  
+[Какие штрафы для автомибилистов](https://taryfikatormandatow.pl/)  
+[Как и зачем заменять водительские права на польские](organizational_issues/замена_иностранных_водительских_прав.md)  
+[Как проверить авто по номеру VIN](https://historiapojazdu.gov.pl/strona-glowna)
 
-## [Отдых](rest/toc.md) 
+## Городской транспорт
+
+[Где какой транспорт по городам](transport/transport_miejski.md)  
+[Какие есть полезные приложения и ссылки](transport/aplikacje.md)  
+Как добраться с аэропорта Шопена до центра Варшавы  
+Как добраться с/до аэропорта Modlin
+
+## Отдых
+
+[Где можно купаться в Польше]((https://sk.gis.gov.pl/index.php/strona/content/7))  
 
 ## Домашние животные
 
-[Переезд с домашними животными](animals/migration.md)  
+[Как перевезти домашних животных](zwierzeta/przewoz.md)  
 
 ## Покупки
 
-[Возврат TAX-FREE](shopping/tax-free.md)  
-[Как покупать на Allegro.pl? Наглядная инструкция](https://olyapka.ru/2018/03/kak-pokupat-na-allegro-pl-naglyadnaya-instrukciya/)
+[Как вернуть TAX-FREE](zakupy/tax-free.md)  
+[Как покупать на Allegro.pl](https://olyapka.ru/2018/03/kak-pokupat-na-allegro-pl-naglyadnaya-instrukciya/)
 
-## [Экология](ecology/toc.md)  
+## Экология
 
-## [Форумы, сайты/блоги и влоги иммигрантов](sites/toc.md)
+[Где посмотреть загрязнение воздуха в Польше](ekologia/powietrze.md)  
+
+## Форумы, сайты/блоги и влоги иммигрантов](sites/toc.md)
+
+[Какие есть группы в социальных сетях/мессенджерах](sites/grupy.md)  
+[Где почитать истории переезда в Польшу](sites/stories.md)  
+[Какие почитать сайты и блоги](sites/strony.md)  
+[Кого посмортеть](sites/vlogi.md)  
+[Какие почитать форумы](sites/fora.md)  
 
 ## [Польша для туристов](travel/toc.md)
 

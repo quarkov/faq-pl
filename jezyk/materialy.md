@@ -21,6 +21,7 @@
 [Все для студентов и преподавателей](http://polski.pro/)  
 [Диктанты с упором на орфографию](http://www.ortografka.pl/)
 [Произношение слов на разных языках](https://pl.forvo.com/languages/)
+[Learn Real Polish](https://realpolish.pl/tag/polish-listening/)  
 
 ## Учебники
 
@@ -59,33 +60,6 @@
 [Bab.la](https://pl.bab.la/slownik/rosyjski-polski/)  
 [Odmiana przez przypadki](http://odmiana.net/)  
 [Słownik slangu i mowy potocznej](http://www.miejski.pl/)
-
-## Подскасты
-
-### Изучение языка
-
-[Learn Real Polish](https://realpolish.pl/tag/polish-listening/)  
-
-### Общая тематика
-
-[Nerdy nocą](http://nerdynoca.pl/)  
-[Zombie vs Zwierz](http://www.podsluchane.pl/zvz/)  
-
-### Саморазвитие, психология
-
-[Jak oszczędzać pieniądze?](http://jakoszczedzacpieniadze.pl/podcast)  
-[Lepiej Teraz](http://www.lepiejteraz.pl/blog-2/)  
-
-### Авто, мото
-
-[DoDechy Podcast](http://dodechypodcast.pl/category/dodechy-podcast/)  
-
-### IT
-
-[DevTalk](http://devtalk.pl/)  
-[Ostra piła](https://ostrapila.pl/)  
-[Niebezpiecznik](https://niebezpiecznik.pl/podcast/)  
-[Cyber Cyber(Fundacja Bezpieczna Cyberprestrzeń)](https://www.cybsecurity.org/pl/category/podcast/)  
 
 ## Приложения для телефона
 

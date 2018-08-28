@@ -1,4 +1,4 @@
-## Влоги о жизни в Польше
+# Кого посмортеть
 
 1. [LiveInPoland](https://www.youtube.com/channel/UCjKb7ltqU6NvSq_QlaG6v-g)  
 2. [Helen Mazanova w Polsce](https://www.youtube.com/channel/UCWUKdkNiYcrfT8HSEqOV0Bw)  

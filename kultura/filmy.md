@@ -1,6 +1,4 @@
-# Культура
-
-# Польский кинематограф
+# Где посмотреть польские фильмы
 
 ## Сайты с фильмами и сериалами на польском языке (online)
 
@@ -30,21 +28,3 @@
 ## Прочеее
 
 [Rutracker: Польское кино: списки + анонсы НОВЫХ раздач](https://rutracker.org/forum/viewtopic.php?t=2836856)  
-
-# Телевидение
-
-[weeb.tv](http://weeb.tv/channels)  
-[yoy.tv](https://yoy.tv/)  
-[pilot.wp.pl](https://pilot.wp.pl/tv)  
-[tvp1-online.blogspot.com](http://tvp1-online.blogspot.com/)  
-[darmowetv.pl](https://www.darmowetv.pl/tele.php)  
-[Tele-wizja.is](http://tele-wizja.is/)  
-
-# Радио
-
-[Польское радио](http://www.polskieradio.pl/)  
-[Стримы польских радиостанций](http://www.listenlive.eu/poland.html)
-
-# Польские библиотеки
-
-[Dolnośląska Biblioteka Cyfrowa](http://www.dbc.wroc.pl/dlibra)  
