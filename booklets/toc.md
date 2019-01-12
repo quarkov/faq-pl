@@ -2,8 +2,15 @@
 
 ## Продление визы, ВНЖ, ПМЖ
 
-1. [Разъяснение для иностранца о принципах и порядке действий, а также о надлежащим ему правах и возложенных на него обязанностях](https://www.mazowieckie.pl/download/1/48863/ouczeniedlacudzoziemcownowelafinal.doc)  
-2. [Pouczenie dla cudzoziemca o zasadach i trybie postępowania oraz o przysługujących mu prawach i ciążących na nim obowiązkach](https://www.mazowieckie.pl/download/1/48869/ouczeniedlacudzoziemcowzaktualizowanewzwznowelizacjafinal.doc)
+1. Разъяснение для иностранца о принципах и порядке действий, а также о надлежащим ему правах и возложенных на него обязанностях:
+- [на русском языке](https://www.mazowieckie.pl/download/1/48863/ouczeniedlacudzoziemcownowelafinal.doc);
+- [на польском языке](https://www.mazowieckie.pl/download/1/48869/ouczeniedlacudzoziemcowzaktualizowanewzwznowelizacjafinal.doc);
+
+## Работа/Учеба
+
+1. [Учеба и работа иностранцев в Польше](https://yadi.sk/i/MB1k25L03QHHmB)  
+2. [Голубая карта EC/Blue Card](https://yadi.sk/i/cCcqg3Uq3QHJ49)  
+3. [Преимущества Blue Card](https://yadi.sk/i/0GP9zfDI3QHJ7S) 
 
 ## Общие темы
 
@@ -16,12 +23,6 @@
 7. [Cudzoziemcy przebywający w Polsce. Vademecum (PL)](https://yadi.sk/i/qsh0AT-u3QHJDE)  
 8. [Zaproszenie dla cudzoziemca (PL)](https://yadi.sk/i/_1MPwV0T3QHKaU)  
 9. [Социальные пособия и материальная помощь](https://yadi.sk/i/KWWzbaqa3QVNkW)
-
-## Работа/Учеба
-
-1. [Учеба и работа иностранцев в Польше](https://yadi.sk/i/MB1k25L03QHHmB)  
-2. [Голубая карта EC/Blue Card](https://yadi.sk/i/cCcqg3Uq3QHJ49)  
-3. [Преимущества Blue Card](https://yadi.sk/i/0GP9zfDI3QHJ7S)  
 
 ## Убежище/Беженство
 

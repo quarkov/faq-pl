@@ -2,23 +2,20 @@
 
 Рекомендую в первую очередь [linkedin.com](https://pl.linkedin.com/) потому, что здесь Вы точно достучитесь до рекрутера.
 
-## Общие сайты с вакансиями:  
+## Общие сайты с вакансиями:
 [pracuj.pl](https://www.pracuj.pl/)  
 [goldenline.pl](http://www.goldenline.pl/)  
 [glassdoor.com](https://www.glassdoor.com/)  
 [indeed.com](https://pl.indeed.com/)  
 [praca.pl](http://www.praca.pl/)  
 [infopraca.pl](https://www.infopraca.pl/)  
-[monsterpolska.pl](https://www.monsterpolska.pl/)  
-[isivi.pl](https://isivi.pl/)  
 [gazetapraca.pl](http://gazetapraca.pl/)  
 [praca.money.pl](https://praca.money.pl/)  
 [careerjet.pl](https://www.careerjet.pl/)  
-[kariera.pl](https://www.kariera.pl/oferty-pracy-dla-specjalistow-i-menedzerow/)  
 [jobs.pl](https://www.jobs.pl/)  
 [gowork.pl](http://www.gowork.pl/)
 
-## Сайты с объявлениями (в т.ч. вакансии)
+## Общие сайты с объявлениями (в т.ч. с вакансиями)
 [gumtree.pl](https://www.gumtree.pl/s-oferty-pracy/v1c8p1)  
 [olx.pl](https://www.olx.pl/praca/)  
 [praca.gratka.pl](http://praca.gratka.pl/)  
@@ -26,8 +23,11 @@
 ## Вакансии на сайтах компаний:  
 Хороший способ - проверять сайты компаний в которых Вы хотите работать. 
 
-[Список IT-фирм в Польше, куда можно подать резюме, если вы собираетесь эмигрировать](https://dou.ua/forums/topic/18900/)   
-[Career at Ciklum](https://jobs.ciklum.com/search-and-apply/)  
+[Список IT-фирм в Польше, куда можно подать резюме, если вы собираетесь эмигрировать](https://dou.ua/forums/topic/18900/)  
+[Netcompany](https://www.netcompany.com/en-GB/Careers/job-search)   
+[KMD](https://careers.kmdpoland.pl/)  
+[Sii](https://sii.pl/oferty-pracy/)  
+[Career at Ciklum](https://jobs.ciklum.com/jobs/)  
 [Sygnity](http://www.sygnity.pl/kariera/oferty-pracy)  
 [Decerto](http://www.decerto.pl/kariera.html)  
 [K2](http://www.k2.pl/#!/pl/kariera/)  
@@ -40,10 +40,10 @@
 [TeamConnect](http://www.teamconnect.pl/oferty-pracy)  
 [New-Invest](http://new-invest.pl/job-offers/)  
 [Comarch](https://kariera.comarch.pl/oferty-pracy/praca/)  
-[Natek](http://www.natek.eu/careers/job-search)  
+[Natek](http://www.natek.eu/careers)  
 [JCommerce](http://www.jcommerce.pl/kariera)  
 [ITConnect](http://www.itconnect.pl/praca)  
-[Fis](http://www.fisglobal.com/About-Us/careers/Jobs)  
+[Fis](https://www.fisglobal.com/about-us/careers)  
 [PGS-Soft](https://kariera.pgs-soft.com/)  
 [Cognifide Limited](http://www.cognifide.com/join-us/poznan)  
 [Comtegra](http://www.comtegra.pl/kariera/oferty-pracy/)  

@@ -5,22 +5,21 @@
 
 ## Виды трудовых договоров
 
-[Работа в Польше - виды трудовых договоров - умова о праце или умова злецения](https://www.rupoland.com/documents/visa/79-umowa-o-prace)  
+[Работа в Польше - виды трудовых договоров](https://www.rupoland.com/documents/visa/79-umowa-o-prace)  
 
 ## Отчеты об уровне заработных плат
 
 [Wynagrodzenia w Polsce według danych GUS](https://wynagrodzenia.pl/gus)  
-[Moja płaca](https://wynagrodzenia.pl/moja-placa) - самая основная информация о зарплате с поиском по должности  
-[Raport płacowy 2018. Trendy na rynku pracy](https://www.hays.pl/cs/groups/hays_common/documents/digitalasset/hays_2078590.pdf) от Hays  
-[Raport płacowy 2017. Trendy na rynku pracy](https://www.hays.pl/cs/groups/hays_common/documents/digitalasset/hays_1820967.pdf) от Hays  
-[Список зарплат по должностям](https://www.kariera.pl/wynagrodzenia/) с поиском от kariera.pl  
-[Raport płacowy 2017. IT Contracting (B2B)](https://reaktor.pwn.pl/wp-content/uploads/2016/12/Raport-p%C5%82acowy-Hays-ITC_20172017_IT.pdf) от Hays  
-[Raport płacowy 2017](https://www.slideshare.net/jakubtabor/raport-spring-2017pl108) от Spring professional  
-[Raport płacowy 2016. Trendy na rynku pracy](http://www.hrtrendy.pl/wp-content/uploads/2016/01/Raport_-placowy_2016_v3.pdf) от Hays  
-[RAPORT PŁACOWY ANTAL. WYNAGRODZENIA OFEROWANE SPECJALISTOM I MENEDŻEROM 6. EDYCJA](http://bpcc.org.pl/uploads/ckeditor/attachments/11814/Antal_Salary_Report_2016.pdf)  
-Инфографика: Сколько зарабатывает программист в Польше? [PL wersja](https://nofluffjobs.com/blog/wp-content/uploads/delightful-downloads/2017/12/INFOGRAFIKA_2017.png) / [ENG version](https://nofluffjobs.com/blog/wp-content/uploads/2017/12/INFOGRAFIKA_Zarobki-w-IT_Szpak-Anna_eng-01-min-1.jpg)
+[Moja płaca](https://wynagrodzenia.pl/moja-placa)  
+[Raport płacowy 2019. Trendy na rynku pracy](http://www.hays.pl/cs/groups/hays_common/documents/digitalasset/hays_2375127.pdf)   
+[Raport płacowy 2018. Trendy na rynku pracy](https://www.hays.pl/cs/groups/hays_common/documents/digitalasset/hays_2078590.pdf)  
+[Список зарплат по должностям](https://www.kariera.pl/wynagrodzenia/)  
+[Raport płacowy 2019. IT Contracting (B2B)](http://image.email.hays.com/lib/fe4515707564057c751477/m/1/46f2128f-74fc-4ad4-ad6d-868ca5f3a56a.pdf)  
+[Antal salary report. Salaries offered to professionals and managers](https://en.antal.pl/en/download-report/salary-2017?download=663216d021c7cab54695bd81b6a7594b)  
+[Zarobki informatyków w pierwszym kwartale 2018](https://nofluffjobs.com/blog/wp-content/uploads/delightful-downloads/2018/06/new-min.jpg)  
+[ZAROBKI W BRANŻY IT W 2018 ROKU. Raport No Fluff Jobs](https://gallery.mailchimp.com/69141bb712978cd16a02ec29f/files/c7d69867-765c-4f56-b8bb-625b9511a30f/No_Fluff_Jobs_raport_wynagrodzen_2018.pdf)  
 
 ## Калькулятор brutto-netto
 
-[Минимальная зарплата в Польше 2017, брутто и нетто как считать](https://www.rupoland.com/finances/business/59-zarplata2017)  
-[Kalkulator wynagrodzeń](https://wynagrodzenia.pl/kalkulator-wynagrodzen) - Przelicz zarobki brutto/netto, oblicz składki i koszty pracodawcy
+[Kalkulator wynagrodzeń](https://wynagrodzenia.pl/kalkulator-wynagrodzen)  
+[Минимальная зарплата в Польше, брутто и нетто как считать](https://www.rupoland.com/finances/business/59-zarplata2017)  
