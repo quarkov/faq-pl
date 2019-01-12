@@ -13,4 +13,4 @@ E-Mail: [Maksim Prianichnikov](mailto::prianichnikov.maksim@gmail.com)
 
 Telegram:  
 [@prianichnikov](https://t.me/prianichnikov)  
-[@Alena_Prianichnikova](https://t.me/Alena_Prianichnikova)  
+[@Pani_Alenka](https://t.me/Pani_Alenka)  
