@@ -107,7 +107,7 @@
 [Где найти информацию о ремонтах на дорогах и магистралях](samochod/stan_drogowy.md)  
 [Где найти правила дорожного движения](http://kodeks-drogowy.org/)  
 [Какие штрафы для автомибилистов](https://taryfikatormandatow.pl/)  
-[Как и зачем заменять водительские права на польские](organizational_issues/замена_иностранных_водительских_прав.md)  
+[Как и зачем заменять водительские права на польские](organizacyjne/wymiana_prawa_jazdy.md)  
 [Как проверить авто по номеру VIN](https://historiapojazdu.gov.pl/strona-glowna)
 
 ## Городской транспорт
