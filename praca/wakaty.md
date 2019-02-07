@@ -13,7 +13,9 @@
 [praca.money.pl](https://praca.money.pl/)  
 [careerjet.pl](https://www.careerjet.pl/)  
 [jobs.pl](https://www.jobs.pl/)  
-[gowork.pl](http://www.gowork.pl/)
+[gowork.pl](http://www.gowork.pl/)  
+[jobsora.com](https://pl.jobsora.com/)  
+[inhire.io](https://inhire.io/)  
 
 ## Общие сайты с объявлениями (в т.ч. с вакансиями)
 [gumtree.pl](https://www.gumtree.pl/s-oferty-pracy/v1c8p1)  
