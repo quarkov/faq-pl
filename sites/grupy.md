@@ -3,8 +3,9 @@
 ## Telegram
 
 ### Чаты
-[@Kresy](https://t.me/kresy)  
+[Побольше о Польше](https://t.me/moreaboutpoland)  
 [@polska_czat](https://t.me/polska_czat)  
+[@Kresy](https://t.me/kresy)  
 
 ### Каналы
 [@chechannel](https://t.me/chechannel)  
