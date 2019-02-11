@@ -9,8 +9,12 @@
 [License](LICENSE.md)  
 
 ## Контакты:
-E-Mail: [Maksim Prianichnikov](mailto::prianichnikov.maksim@gmail.com)  
+E-Mail:  
+[Maksim Prianichnikov](mailto::prianichnikov.maksim@gmail.com)  
 
 Telegram:  
 [@prianichnikov](https://t.me/prianichnikov)  
 [@Pani_Alenka](https://t.me/Pani_Alenka)  
+
+Чат в Telegram:  
+[Побольше о Польше](https://t.me/moreaboutpoland)  
