@@ -11,6 +11,7 @@
 [@chechannel](https://t.me/chechannel)  
 [popolsku](https://t.me/popolsku)  
 [Польский Иван](https://t.me/polskijivan)  
+[Iron Hamster](https://t.me/ironhamster)  
 [Kawa z mlekiem?](https://t.me/zapraszam)  
 [Типичная Польша](https://t.me/itspoland)  
 [Четверо в Польші](https://t.me/familywawa)  
