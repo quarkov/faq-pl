@@ -7,6 +7,8 @@
 [goldenline.pl](http://www.goldenline.pl/)  
 [glassdoor.com](https://www.glassdoor.com/)  
 [indeed.com](https://pl.indeed.com/)  
+[nofluffjobs.com](https://nofluffjobs.com/)  
+[jooble.org](https://pl.jooble.org/)  
 [praca.pl](http://www.praca.pl/)  
 [infopraca.pl](https://www.infopraca.pl/)  
 [gazetapraca.pl](http://gazetapraca.pl/)  
