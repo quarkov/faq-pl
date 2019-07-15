@@ -8,6 +8,7 @@
 [glassdoor.com](https://www.glassdoor.com/)  
 [indeed.com](https://pl.indeed.com/)  
 [nofluffjobs.com](https://nofluffjobs.com/)  
+[justjoin.it](https://justjoin.it/)  
 [jooble.org](https://pl.jooble.org/)  
 [praca.pl](http://www.praca.pl/)  
 [infopraca.pl](https://www.infopraca.pl/)  
