@@ -11,6 +11,7 @@
 
 [RESUMES and COVER LETTERS](http://ocs.fas.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf) by Harvard Extension School  
 [Resumes & Cover Letters](https://www.gsb.stanford.edu/alumni/career-resources/job-search/resumes-cover-letters) by Stanford Graduate School of Business  
+[Resume tips](https://drive.google.com/file/d/10b9NZDhPbUOW_C7108IKe9ev6Ed2UG7F/view) by Ex-Google Tech Lead
 
 ## Прохождение интервью
 
